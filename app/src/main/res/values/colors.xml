@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_bg">#101226</color>
+    <color name="tab_background">#1F2042</color>
+    <color name="tab_selected">#3F50B5</color>
+    <color name="tab_text_color">#CCFFFFFF</color>
+    <color name="button_color">#3F50B5</color>
+    <color name="input_background">#1F2042</color>
+    <color name="hint_color">#99FFFFFF</color>
+    <color name="link_color">#4285F4</color>
+    <color name="facebook_blue">#1877F2</color>
+    <color name="google_blue">#4285F4</color>
+    <color name="divider_color">#33FFFFFF</color>
+</resources>
